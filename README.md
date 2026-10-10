@@ -168,18 +168,7 @@ The project generates:
 - Image comparison figures.
 - CSV reports containing evaluation measurements and processing times.
 
-The primary output is the set of dehazed photographs. The degree of improvement depends on the input image, haze density, scene content, and accuracy of the estimated atmospheric parameters.
-
-Add representative **before-and-after comparisons** here once the final outputs have been verified.
-
-## Limitations
-
-- Dark Channel Prior may not work equally well for every type of scene.
-- Bright skies, white objects, and large low-texture regions can affect atmospheric-light and transmission estimates.
-- Dense or nonuniform fog may remain after processing.
-- Transmission refinement using a local mean filter can smooth edges and does not guarantee edge-preserving refinement.
-- The absence of matching haze-free reference images limits objective restoration-quality evaluation.
-- Improved contrast does not necessarily mean that all haze has been removed.
+The degree of improvement depends on the input image, haze density, scene content, and accuracy of the estimated atmospheric parameters.
 
 ## Future Improvements
 

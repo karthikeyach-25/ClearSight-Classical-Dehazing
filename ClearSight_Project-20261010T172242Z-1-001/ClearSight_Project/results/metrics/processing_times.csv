@@ -1,0 +1,21 @@
+Image,Method,Processing_Time_Seconds
+haze1.png,Contrast Stretching,0.00805351700000756
+haze1.png,Gamma Correction,0.027765088000251126
+haze1.png,DCP Pipeline,0.25419832499983386
+haze1.png,DCP with Refinement,0.2776156089998949
+haze2.png,Contrast Stretching,0.01628437900035351
+haze2.png,Gamma Correction,0.058877508000023226
+haze2.png,DCP Pipeline,0.6031428070000402
+haze2.png,DCP with Refinement,0.6533882799999446
+haze3.png,Contrast Stretching,0.005464845999995305
+haze3.png,Gamma Correction,0.028292458999658265
+haze3.png,DCP Pipeline,0.24193580100018153
+haze3.png,DCP with Refinement,0.26589884400027586
+haze4.png,Contrast Stretching,0.004751534000206448
+haze4.png,Gamma Correction,0.02448204100028306
+haze4.png,DCP Pipeline,0.23783270400008405
+haze4.png,DCP with Refinement,0.25881950900020456
+haze5.png,Contrast Stretching,0.006290505999913876
+haze5.png,Gamma Correction,0.025470043000041187
+haze5.png,DCP Pipeline,0.233896360000017
+haze5.png,DCP with Refinement,0.25493501200026003
